@@ -20,11 +20,12 @@ sudo service redis-server restart
 redis-cli
 ```
 
-## Configurar la politica de redis // Nota: Esto depende de la memoria que esté utilizando Redis en el pc, puede variar.
+## Configurar la politica de redis
 ```
 Config set maxmemory-policy allkeys-lru
 config set maxmemory 1300000B
 ```
+Nota: Esto depende de la memoria que esté utilizando Redis en el pc, puede variar.
 
 # Instrucciones de ejecución:
 
