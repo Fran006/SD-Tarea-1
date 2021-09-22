@@ -1,0 +1,576 @@
+{
+  "products": [
+    {
+      "name": "owo",
+      "price": 9999
+    },
+    {
+      "name": "uwu",
+      "price": 1111
+    },
+    {
+      "name": "ewe",
+      "price": 3345
+    },
+    {
+      "name": "awa",
+      "price": 3345
+    },
+    {
+      "name": "iwi",
+      "price": 3345
+    },
+    {
+      "name": "Lalala",
+      "price": 99999999
+    },
+    {
+      "name": "UWUsss",
+      "price": 454345
+    },
+    {
+      "name": "pato",
+      "price": 1
+    },
+    {
+      "name": "ganso",
+      "price": 10
+    },
+    {
+      "name": "lechuga",
+      "price": 100
+    },
+    {
+      "name": "anvorgesa",
+      "price": 999
+    },
+    {
+      "name": "granadina",
+      "price": 9
+    },
+    {
+      "name": "choripan",
+      "price": 66
+    },
+    {
+      "name": "pipeño",
+      "price": 87
+    },
+    {
+      "name": "helado de piña",
+      "price": 77
+    },
+    {
+      "name": "empanada",
+      "price": 668
+    },
+    {
+      "name": "doritos",
+      "price": 3
+    },
+    {
+      "name": "alcohol",
+      "price": 3
+    },
+    {
+      "name": "pasta de dientes",
+      "price": 5
+    },
+    {
+      "name": "terremoto",
+      "price": 69 
+    },
+    {
+      "name": "ron",
+      "price": 999
+    },
+    {
+      "name": "papas fritas",
+      "price": 4747
+    },
+    {
+      "name": "papas",
+      "price": 3
+    },
+    {
+      "name": "aceite",
+      "price": 55
+    },
+    {
+      "name": "vodka",
+      "price": 31
+    },
+    {
+      "name": "cheetos",
+      "price": 7
+    },
+    {
+      "name": "mariachis",
+      "price": 1
+    },
+    {
+      "name": "queque",
+      "price": 56
+    },
+    {
+      "name": "hongos",
+      "price": 1
+    },
+    {
+      "name": "usb",
+      "price": 1
+    },
+    {
+      "name": "costillar",
+      "price": 8888
+    },
+    {
+      "name": "lomo",
+      "price": 555
+    },
+    {
+      "name": "steam",
+      "price": 4
+    },
+    {
+      "name": "mayonesa",
+      "price": 65
+    },
+    {
+      "name": "mostaza",
+      "price": 8
+    },
+    {
+      "name": "pebre",
+      "price": 1
+    },
+    {
+      "name": "cebolla",
+      "price": 67
+    },
+    {
+      "name": "mote",
+      "price": 33
+    },
+    {
+      "name": "huesillo",
+      "price": 656
+    },
+    {
+      "name": "mote con huesillo",
+      "price": 6677
+    },
+    {
+      "name": "lentejas",
+      "price": 1
+    },
+    {
+      "name": "porotos",
+      "price": 3
+    },
+    {
+      "name": "fideos",
+      "price": 66
+    },
+    {
+      "name": "pizza",
+      "price": 9595
+    },
+    {
+      "name": "masa",
+      "price": 1
+    },
+    {
+      "name": "aceituna",
+      "price": 1
+    },
+    {
+      "name": "pimenton",
+      "price": 55
+    },
+    {
+      "name": "jamon",
+      "price": 3
+    },
+    {
+      "name": "queso",
+      "price": 34
+    },
+    {
+      "name": "el pepe",
+      "price": 4
+    },
+    {
+      "name": "transantiago",
+      "price": 1
+    },
+    {
+      "name": "espinaca",
+      "price": 3
+    },
+    {
+      "name": "zapallo",
+      "price": 535
+    },
+    {
+      "name": "gtx 1080",
+      "price": 5355465
+    },
+    {
+      "name": "gtx 1070",
+      "price": 4444
+    },
+    {
+      "name": "gtx 1060",
+      "price": 535
+    },
+    {
+      "name": "gtx 1050",
+      "price": 14
+    },
+    {
+      "name": "gtx 2080",
+      "price": 999998774
+    },
+    {
+      "name": "gtx 2070",
+      "price": 53943
+    },
+    {
+      "name": "gtx 2060",
+      "price": 3944
+    },
+    {
+      "name": "gtx 3090",
+      "price": 999999999
+    },
+    {
+      "name": "gtx 3080",
+      "price": 898975
+    },
+    {
+      "name": "gtx 3070",
+      "price": 444455
+    },
+    {
+      "name": "gtx 3060",
+      "price": 95558
+    },
+    {
+      "name": "acer nitro",
+      "price": 59585534
+    },
+    {
+      "name": "lenovo legion",
+      "price": 89889839
+    },
+    {
+      "name": "iphone 1",
+      "price": 9
+    },
+    {
+      "name": "iphone 2",
+      "price": 9
+    },
+    {
+      "name": "iphone 3",
+      "price": 9
+    },
+    {
+      "name": "iphone 4",
+      "price": 9
+    },
+    {
+      "name": "iphone 5",
+      "price": 9
+    },
+    {
+      "name": "iphone 6",
+      "price": 9
+    },
+    {
+      "name": "iphone 7",
+      "price": 45
+    },
+    {
+      "name": "iphone 8",
+      "price": 666
+    },
+    {
+      "name": "iphone 9",
+      "price": 9
+    },
+    {
+      "name": "iphone 11",
+      "price": 345987348
+    },
+    {
+      "name": "iphone 12",
+      "price": 99999993
+    },
+    {
+      "name": "pinguino",
+      "price": 4444
+    },
+    {
+      "name": "mermelada",
+      "price": 42
+    },
+    {
+      "name": "venezuela",
+      "price": 9
+    },
+    {
+      "name": "arroz",
+      "price": 10
+    },
+    {
+      "name": "caballo",
+      "price": 53555
+    },
+    {
+      "name": "canguro",
+      "price": 4345
+    },
+    {
+      "name": "plancha",
+      "price": 1
+    },
+    {
+      "name": "pikachu",
+      "price": 54555
+    },
+    {
+      "name": "articuno",
+      "price": 1
+    },
+    {
+      "name": "zapdos",
+      "price": 2
+    },
+    {
+      "name": "moltres",
+      "price": 3
+    },
+    {
+      "name": "dragonite",
+      "price": 66
+    },
+    {
+      "name": "tentacool",
+      "price": 1
+    },
+    {
+      "name": "magikarp",
+      "price": 9999
+    },
+    {
+      "name": "pantufla",
+      "price": 535
+    },
+    {
+      "name": "sandia",
+      "price": 511
+    },
+    {
+      "name": "jonathan frez",
+      "price": 999999
+    },
+    {
+      "name": "carlos landeros",
+      "price": 555555
+    },
+    {
+      "name": "marcianeke",
+      "price": 11111
+    },
+    {
+      "name": "guitarra",
+      "price": 666
+    },
+    {
+      "name": "piano",
+      "price": 349875
+    },
+    {
+      "name": "flauta",
+      "price": 5
+    },
+    {
+      "name": "violin",
+      "price": 595959
+    },
+    {
+      "name": "netflix",
+      "price": 93845789
+    },
+    {
+      "name": "facebook",
+      "price": 34095839
+    },
+    {
+      "name": "cocacola",
+      "price": 44414
+    },
+    {
+      "name": "pepsi",
+      "price": 11145456
+    },
+    {
+      "name": "fanta",
+      "price": 535
+    },
+    {
+      "name": "7up",
+      "price": 54
+    },
+    {
+      "name": "mantecado",
+      "price": 1
+    },
+    {
+      "name": "habbo",
+      "price": 96996
+    },
+    {
+      "name": "club penguin",
+      "price": 345
+    },
+    {
+      "name": "reloj",
+      "price": 5
+    },
+    {
+      "name": "rolex",
+      "price": 1
+    },
+    {
+      "name": "reloj rayo mcqueen",
+      "price": 9999999
+    },
+    {
+      "name": "ford f150",
+      "price": 53543595
+    },
+    {
+      "name": "peugeot 307",
+      "price": 53543534
+    },
+    {
+      "name": "nirvana",
+      "price": 99999999
+    },
+    {
+      "name": "foo fighters",
+      "price": 999999999
+    },
+    {
+      "name": "bmth",
+      "price": 93453459
+    },
+    {
+      "name": "queen",
+      "price": 999534959
+    },
+    {
+      "name": "neon trees",
+      "price": 3445093
+    },
+    {
+      "name": "microscopio",
+      "price": 14
+    },
+    {
+      "name": "pasta termica",
+      "price": 34
+    },
+    {
+      "name": "monitor",
+      "price": 456456
+    },
+    {
+      "name": "discord",
+      "price": 9999999
+    },
+    {
+      "name": "fruna",
+      "price": 1
+    },
+    {
+      "name": "yui zhou",
+      "price": 957
+    },
+    {
+      "name": "pepino",
+      "price": 535
+    },
+    {
+      "name": "memoria 64gb",
+      "price": 85
+    },
+    {
+      "name": "escritorio",
+      "price": 11
+    },
+    {
+      "name": "sillon",
+      "price": 11
+    },
+    {
+      "name": "camaleon",
+      "price": 11
+    },
+    {
+      "name": "tiburon",
+      "price": 11
+    },
+    {
+      "name": "playa",
+      "price": 44
+    },
+    {
+      "name": "delantal",
+      "price": 53
+    },
+    {
+      "name": "frenillos",
+      "price": 535
+    },
+    {
+      "name": "colacao",
+      "price": 53453345
+    },
+    {
+      "name": "dentista",
+      "price": 11444
+    },
+    {
+      "name": "doctor",
+      "price": 11543534
+    },
+    {
+      "name": "el tabo",
+      "price": 999
+    },
+    {
+      "name": "algarrobo",
+      "price": 11
+    },
+    {
+      "name": "la serena",
+      "price": 45
+    },
+    {
+      "name": "valpo",
+      "price": 999
+    },
+    {
+      "name": "no disponible",
+      "price": 0
+    },
+    {
+      "name": "no en cache",
+      "price": 0
+    }
+  ]
+}
