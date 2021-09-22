@@ -27,8 +27,9 @@ config set maxmemory 1300000B
 ```
 
 # Instrucciones de ejecución:
-```
+
 ## Ejecutar código
+```
 python app.py
 python searchserver.py
 ```
