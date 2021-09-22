@@ -40,7 +40,7 @@ python searchserver.py
 ```
 Esto permite visualizar el número de "keys" y cuales son
 
-# Para consultar un producto se realiza un get  con la dirección 
+## Para consultar un producto se realiza un get  con la dirección 
 ```
 127.0.0.1:5000/search?sol=Producto
 ```
